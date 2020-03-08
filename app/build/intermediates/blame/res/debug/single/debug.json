@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/layout_activity_question.xml.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/layout/activity_question.xml"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/drawable-v24_dancing.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/drawable-v24/dancing.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/drawable-v24_plane.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/drawable-v24/plane.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/drawable-v24_tie.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/drawable-v24/tie.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/layout_activity_result.xml.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/layout/activity_result.xml"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/drawable-v24_bike.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/drawable-v24/bike.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/drawable-v24_answer.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/drawable-v24/answer.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/drawable-v24_pattern.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/drawable-v24/pattern.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/drawable-v24_liost.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/drawable-v24/liost.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/drawable-v24_pattern2.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/drawable-v24/pattern2.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/drawable-v24_android_teacher.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/drawable-v24/android_teacher.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/drawable-v24_standing.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/drawable-v24/standing.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/drawable-v24_android_happy_1.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/drawable-v24/android_happy_1.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/drawable-v24_map.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/drawable-v24/map.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/drawable-v24_kotllin.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/drawable-v24/kotllin.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/drawable-v24_versions.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/drawable-v24/versions.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/drawable-v24_love.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/drawable-v24/love.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/drawable-v24_snowmobile.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/drawable-v24/snowmobile.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/build/intermediates/res/merged/debug/drawable-v24_rocket.png.flat",
+        "source": "/home/jsgravenhorst/AndroidStudioProjects/starter/app/src/main/res/drawable-v24/rocket.png"
+    }
+]
